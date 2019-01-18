@@ -65,7 +65,7 @@
                 {
                   "type": "patientIdentifier",
                   "label": "National ID",
-                  "formFieldName": "nationalId",
+                  "formFieldName": "patientIdentifier",
                   "uuid": "49af6cdc-7968-4abb-bf46-de10d7f4859f",
                   "widget": {
                     "providerName": "uicommons",
